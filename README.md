@@ -11,4 +11,4 @@ A script to convert OfflineBPLog CSVs to Spreadsheets.
 - Run `python bp.py`
 - When you run the script, it will automatically generate a `spreadsheet.xlsx` with the data neatly categorised into Date/Time/Systiolic/Diastolic/Pulse/Remarks columns. 
 
-####### Note: This program converts dates from the ISO8601 standard to the DD-MM-YYYY and HH-MM-SS standards to make it easy for doctors to read.
+#### Note: This program converts dates from the ISO8601 standard to the DD-MM-YYYY and HH-MM-SS standards to make it easy for doctors to read.
